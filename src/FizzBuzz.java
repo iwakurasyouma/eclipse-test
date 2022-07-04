@@ -12,9 +12,6 @@ public class FizzBuzz {
 			else if(a%5==0) {
 				System.out.println("Buzz");
 			}
-			else if(a%15==0) {
-				System.out.println("FizzBuzz");
-			}
 			else { System.out.println(a);}
 				
 			
